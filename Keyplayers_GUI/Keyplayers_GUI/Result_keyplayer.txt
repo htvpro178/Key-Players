@@ -1,0 +1,48 @@
+Danh sach 7 phan tu co suc anh huong lon nhat trong do thi: 
+Suc anh huong cua dinh 2() : 2.15179
+Dinh nay anh huong toi dinh: 
+3 4 7 
+Suc anh huong toi tung dinh:
+3 : 0.75
+4 : 0.901786
+7 : 0.5
+
+Suc anh huong cua dinh 6() : 1.6
+Dinh nay anh huong toi dinh: 
+3 4 
+Suc anh huong toi tung dinh:
+3 : 0.8
+4 : 0.8
+
+Suc anh huong cua dinh 1() : 1.292
+Dinh nay anh huong toi dinh: 
+3 4 5 6 
+Suc anh huong toi tung dinh:
+3 : 0.2
+4 : 0.592
+5 : 0.25
+6 : 0.25
+
+Suc anh huong cua dinh 3() : 1
+Dinh nay anh huong toi dinh: 
+4 
+Suc anh huong toi tung dinh:
+4 : 1
+
+Suc anh huong cua dinh 5() : 0.6
+Dinh nay anh huong toi dinh: 
+4 
+Suc anh huong toi tung dinh:
+4 : 0.6
+
+Suc anh huong cua dinh 7() : 0.428571
+Dinh nay anh huong toi dinh: 
+4 
+Suc anh huong toi tung dinh:
+4 : 0.428571
+
+Suc anh huong cua dinh 4() : 0
+Dinh nay anh huong toi dinh: 
+
+Suc anh huong toi tung dinh:
+

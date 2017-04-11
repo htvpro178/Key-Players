@@ -1,0 +1,31 @@
+Danh sach 5 phan tu co suc anh huong lon nhat trong do thi: 
+So dinh chiu anh huong cua dinh 4(B) dat nguong:2
+Dinh nay anh huong toi dinh: 
+5 6 
+Suc anh huong toi tung dinh:
+1
+0.8
+
+So dinh chiu anh huong cua dinh 2(A) dat nguong:1
+Dinh nay anh huong toi dinh: 
+3 
+Suc anh huong toi tung dinh:
+0.5
+
+So dinh chiu anh huong cua dinh 1(D) dat nguong:1
+Dinh nay anh huong toi dinh: 
+2 
+Suc anh huong toi tung dinh:
+0.5
+
+So dinh chiu anh huong cua dinh 5(C) dat nguong:1
+Dinh nay anh huong toi dinh: 
+6 
+Suc anh huong toi tung dinh:
+0.8
+
+So dinh chiu anh huong cua dinh 3(E) dat nguong:0
+Dinh nay anh huong toi dinh: 
+
+Suc anh huong toi tung dinh:
+
